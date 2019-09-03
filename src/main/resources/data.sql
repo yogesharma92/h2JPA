@@ -1,0 +1,2 @@
+INSERT INTO TBL_EMPLOYEES (empName) VALUES
+  ('Yogesh');
